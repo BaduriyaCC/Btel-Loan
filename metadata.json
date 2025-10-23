@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Baduriya Teachers Emergency Loan Scheme",
+  "description": "An offline web application to manage staff financial interactions within the BADURIYA TEACHERS EMERGENCY LOAN SCHEME. Data is stored locally, with import/export functionality via JSON files.",
+  "requestFramePermissions": []
+}
